@@ -78,5 +78,3 @@ while True:
     turnright3()
     turnright4()
     time.sleep(1)
-
-print("test")
